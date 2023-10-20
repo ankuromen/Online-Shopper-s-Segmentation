@@ -1,2 +1,1 @@
-# Online-Shopper-s-Segmentation
-In this project, unsupervised learning is used to segment customers according to their spending score.
+In this project, I used unsupervised learning to segment customers according to their spending score.
